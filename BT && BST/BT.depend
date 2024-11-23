@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1710486758 source:f:\helloworld\bt\main.cpp
+	<iostream>
+	<assert.h>
+	<bits/stdc++.h>
+
+1710927235 source:f:\helloworld\bt && bst\main.cpp
+	<iostream>
+	<assert.h>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701867864 source:f:\helloworld\queue\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+

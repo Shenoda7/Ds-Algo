@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697744760 source:f:\helloworld\practice_struct\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

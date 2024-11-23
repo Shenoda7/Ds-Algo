@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704397127 source:f:\helloworld\linked_list\main.cpp
+	<bits/stdc++.h>
+	<iostream>
+

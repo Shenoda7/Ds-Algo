@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701965177 source:f:\helloworld\stack_arrbased\main.cpp
+	<iostream>
+	<assert.h>
+	<string>
+	<bits/stdc++.h>
+
